@@ -1,9 +1,11 @@
 TelecomX LATAM - Análisis de Churn
 
 Descripción
+
 En este notebook se realizará un análisis exploratorio de datos para entender los patrones y tendencias en el dataset de clientes de TelecomX LATAM. El objetivo es identificar factores que puedan influir en el churn de los clientes. El churn se define como la cancelación de un servicio por parte de un cliente. Esto afecta directamente a la rentabilidad de la empresa ya que la pérdida de clientes implica una disminución en los ingresos recurrentes, mayores costos de adquisición para reemplazarlos y posibles impactos negativos en la reputación de la marca.
 
 🎯 Contexto del Negocio
+
 La retención de clientes es un pilar fundamental para el éxito en la industria de las telecomunicaciones. Adquirir un nuevo cliente es significativamente más costoso que retener a uno existente. TelecomX puede implementar estrategias de retención dirigidas, como ofertas personalizadas o mejoras en el servicio, para reducir la pérdida de ingresos y mejorar la lealtad del cliente.
 
 📊 Dataset
